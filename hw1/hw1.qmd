@@ -1,6 +1,6 @@
 ---
 title: "HW1 — Extending the Stroop Builder Skeleton"
-author: "Your Name"
+author: Kai Collisn
 format: html
 editor: visual
 ---
@@ -9,25 +9,25 @@ editor: visual
 
 *A few sentences: did you add a new routine (e.g., an extra instructions/practice screen) or a new condition (a new row in `conditions.xlsx`)? Describe what you added and why you picked that option.*
 
-TODO: your answer here.
+TODO: I added a practice rountine that is followed by another instriction page. I also added another color condition and changed the amount of loops the experiment ran for. Lastly, I changed the color of the box surronding the words to black.
 
 ## Did it work?
 
 *Did your addition work the first time you tested it in Builder, or did you have to fix something? If you added a routine, was it wired into the Flow correctly the first try (recall Class 2's "built ≠ wired in" trap)? If you added a condition, did the loop's trial count update the way you expected?*
 
-TODO: your answer here.
+The only thing that gave me trouble was altering and updating the conditions. I wanted to make sure I added my new loop in correctly with the right conditions. I also initially forgot to change "up" into an accpetable input key, which causeed my program not to run correctly. Other than that everything worked on the first time. 
 
 ## Reflection
 
 *A few sentences: what was the trickiest part of this extension, and what would you tell a classmate about to do the same thing?*
 
-TODO: your reflection here.
+TODO: The trickiet part for me was comprehending what was happening behind the scences. Everything felt kind of hands off, so I had trouble making sense of what to do exactly.
 
 ## Sources
 
 *A sentence or two: what sources did you turn to for help on this homework? Sources can be other people, posts on the internet, software documentation, AI tools — or none at all. (Honest answers here never lower your grade; using help well is part of coding.)*
 
-TODO: your answer here.
+TODO:none at all.
 
 ---
 
